@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://titonte.github.io/sitemap.html.gz
+Sitemap: https://titonte.github.io/app/sitemap.html.gz
+Sitemap: https://titonte.github.io/assets/sitemap.html.gz
+Sitemap: https://titonte.github.io/css/sitemap.html.gz
+Sitemap: https://titonte.github.io/data/sitemap.html.gz
+Sitemap: https://titonte.github.io/includes/sitemap.html.gz
+Sitemap: https://titonte.github.io/item/sitemap.html.gz
+Sitemap: https://titonte.github.io/src/sitemap.html.gz
